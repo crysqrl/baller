@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from discord.ext import commands
 
 ITK_PREFIX = r'https://www.itkkit.ru/'
-TOKEN = 'NTkwNDgxMzE5Mjc2OTY5OTg0.XQi63Q.2-5a7Wa3jlZLQUEkiRSnmNvfnvM'
+TOKEN = 'TOKEN_WAS_HERE'
 
 bot = commands.Bot(command_prefix='>')
 
